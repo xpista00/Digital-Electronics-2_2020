@@ -17,6 +17,7 @@ Calculate the overflow times for three Timer/Counter modules that contain ATmega
 Shields are boards that can be attached to an Arduino board, significantly expand its capabilities, and makes prototyping much faster. See schematic of [Multi-function shield](../../Docs/arduino_shield.pdf) and find out the connection of four LEDs (D1, D2, D3, D4) and three push buttons (S1-A1, S2-A2, S3-A3).
 
 Diode:
+
 D1 == PB5[13]
 
 D2 == PB4[12]
@@ -26,6 +27,7 @@ D3 == PB3[-11]
 D4 == PB2[-10]
 
 Buttons:
+
 SW1 == PC1[A1]
 
 SW2 == PC2[A2]
