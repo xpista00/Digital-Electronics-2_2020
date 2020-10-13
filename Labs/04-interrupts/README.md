@@ -10,7 +10,7 @@ Calculate the overflow times for three Timer/Counter modules that contain ATmega
 
 | **Module** | **Number of bits** | **1** | **8** | **32** | **64** | **128** | **256** | **1024** |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Timer/Counter0 | 8  | 16u | 128u | -- | | -- | | |
+| Timer/Counter0 | 8  | 16u | 128u | -- | 1024u | -- | 4096u | 16 384u |
 | Timer/Counter1 | 16 |     |      | -- | | -- | | |
 | Timer/Counter2 | 8  |     |      |    | |    | | |
 
