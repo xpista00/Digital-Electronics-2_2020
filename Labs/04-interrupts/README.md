@@ -18,14 +18,20 @@ Shields are boards that can be attached to an Arduino board, significantly expan
 
 Diode:
 D1 == PB5[13]
+
 D2 == PB4[12]
+
 D3 == PB3[-11]
+
 D4 == PB2[-10]
 
 Buttons:
 SW1 == PC1[A1]
+
 SW2 == PC2[A2]
+
 SW3 == PC3[A3]
+
 SW4 == RESET[RESET]
 
 
