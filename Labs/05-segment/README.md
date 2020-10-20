@@ -21,7 +21,8 @@ In the following table, write the binary values of the segments for display 0 to
    | 9 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
 
 Use schematic of the [Multi-function shield](../../Docs/arduino_shield.pdf) and find out the connection of seven-segment display. What is the purpose of two shift registers 74HC595?
-
+QA-QH (U3) control which segment will be used 
+QA-QH (U2) control which 7 seg will be used
 &nbsp;
 
 &nbsp;
