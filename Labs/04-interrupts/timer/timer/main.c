@@ -51,7 +51,7 @@ int main(void)
 
     /* Configuration of 8-bit Timer/Counter2 */
     // WRITE YOUR CODE HERE
-	TIM2_overflow_1024us();
+	TIM2_overflow_16384us();
 	TIM2_overflow_interrupt_enable();
 
     // Enables interrupts by setting the global interrupt mask
