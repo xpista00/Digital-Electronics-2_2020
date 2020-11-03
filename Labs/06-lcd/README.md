@@ -3,7 +3,7 @@
 Use schematic of the [LCD keypad shield](../../Docs/arduino_shield.pdf) and find out the connection of LCD display. What data and control signals are used? What is the meaning of these signals?
 
 &nbsp;
-VSS => GND
+VSS => GND //
 VDD => +5V
 VD => Trimr/Potenciometr
 RS => PB0[8]
