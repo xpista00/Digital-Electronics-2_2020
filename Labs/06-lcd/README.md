@@ -18,7 +18,7 @@ D5 => PD5 [5] \
 D6 => PD6 [6] \
 D7 => PD7 [7] \
 LED+ => +5V \
-LED- => transitor Q1(colector) \
+LED- => transitor Q1(colector) 
 
 
 &nbsp;
@@ -38,4 +38,4 @@ A:Z => 65:90 (decimal) \
 &nbsp;
 a:z => 97:122 (decimal) \
 &nbsp;
-0:9 => 48:57 (decimal) \
+0:9 => 48:57 (decimal) 
